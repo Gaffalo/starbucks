@@ -314,7 +314,7 @@ footer .menu {
   justify-content: center;
 }
 footer .menu li {
-  position: relative;;
+  position: relative;
 }
 footer .menu li::before {
   content: "";
